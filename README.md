@@ -1,7 +1,7 @@
 # Hola 👋 mi nombre es Enzo Orbe
 #### Desarrollador Full Stack 
 ## Sobre mi:
-Tengo 22 años, apasionado por la programacion :tw-1f4bb: y el futbol :tw-26bd:, graduado de la **Academia Soy Henry**, con el objetivo de aprender todos los dias un poco mas y crecer profesionalmente como Desarrollador Full Stack.
+Tengo 22 años, apasionado por la programacion  y el futbol , graduado de la **Academia Soy Henry**, con el objetivo de aprender todos los dias un poco mas y crecer profesionalmente como Desarrollador Full Stack.
 
 ## Skills:
 [![react](https://i.ibb.co/LrGg0kr/atom.png "react")](https://i.ibb.co/LrGg0kr/atom.png "react")  React Js. 
